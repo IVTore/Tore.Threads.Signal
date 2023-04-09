@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Version>1.0.0</Version>
+    <Authors>İhsan Volkan Töre</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <IncludeSymbols>True</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Tore.Threads.Signal</PackageId>
+    <Title>C# Thread signaling class library by İ. V. Töre</Title>
+    <Copyright>2023 İhsan Volkan Töre</Copyright>
+    <RepositoryUrl>https://github.com/IVTore/Tore.Threads.Signal</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Tore Thread Task Signal</PackageTags>
+    <PackageReleaseNotes>First version.</PackageReleaseNotes>
+    <Description>C# Thread signaling class library by İ. V. Töre</Description>
+    <PackageProjectUrl>https://github.com/IVTore/Tore.Threads.Signal</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
